@@ -1,6 +1,11 @@
 File Contents
+
 Dataset
-Bank Customer Churn Prediction
+Bank Customer Churn Prediction.csv
+Bank Customer Churn Prediction.xlsx (Cleaned Data)
+
+SQL File
+SQl script for cleaned data
 
 Python Files
 EDA (Exploratory Data Analysis)
